@@ -1,0 +1,203 @@
+Time: 0
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 1
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 2
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 3
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 4
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 5
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 6
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 7
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 8
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 9
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 10
+Waiting clients
+(2, 11, 2)(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 11
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+(2, 11, 2) 
+queue 1
+
+Time: 12
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+(2, 11, 1) 
+queue 1
+
+Time: 13
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 14
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 15
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 16
+Waiting clients
+(0, 17, 2)(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 17
+Waiting clients
+(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+(0, 17, 2) 
+queue 1
+
+Time: 18
+Waiting clients
+(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+(0, 17, 1) 
+queue 1
+
+Time: 19
+Waiting clients
+(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 20
+Waiting clients
+(3, 21, 2)(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 21
+Waiting clients
+(1, 24, 3)
+Queues:
+queue 0
+(3, 21, 2) 
+queue 1
+
+Time: 22
+Waiting clients
+(1, 24, 3)
+Queues:
+queue 0
+(3, 21, 1) 
+queue 1
+
+Time: 23
+Waiting clients
+(1, 24, 3)
+Queues:
+queue 0
+
+queue 1
+
+Time: 24
+Waiting clients
+
+Queues:
+queue 0
+(1, 24, 3) 
+queue 1
+
+Peak hour: 12
+Average waiting time: 0.0
+Average service time: 2.25
